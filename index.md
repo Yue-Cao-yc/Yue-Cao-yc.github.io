@@ -17,7 +17,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 2022 - 2023: **The University of Hong Kong (HKU)**
+
 2017 - 2021: **East China Normal University (ECNU)**
+
 ---
 
 ## Research Interests

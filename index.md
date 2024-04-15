@@ -20,8 +20,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 2017 - 2021: **East China Normal University (ECNU)**
 
----
-
 ## Research Interests
 
 - Language Acquisition

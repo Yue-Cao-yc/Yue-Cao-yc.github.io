@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/image-yuec.jpeg" class="floatpic" width="480" height="340">
+<img src="images/image-yuec.jpeg" class="floatpic" width="500" height="360">
 
 Here is **Yue Cao (Jenn, 曹玥)**.
 
@@ -16,9 +16,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-2022 - 2023: **The University of Hong Kong (HKU)**
+ 2022 - 2023: **The University of Hong Kong (HKU)**
 
-2017 - 2021: **East China Normal University (ECNU)**
+ 2017 - 2021: **East China Normal University (ECNU)**
 
 ---
 

@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="images/caihanlin.jpg" class="floatpic" width="480" height="340">
+<img src="https://github.com/Yue-Cao-yc/Yue-Cao-yc.github.io/blob/0251e4b46e747fd88e1ee7e3a64dd64c00cdd956/image-yuec.jpeg" class="floatpic" width="480" height="340">
 
 Here is **Yue Cao (Jenn, 曹玥)**.
 
